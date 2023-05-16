@@ -11,9 +11,9 @@ homepage = "https://github.com/blacklanternsecurity/MANSPIDER"
 manspider = 'man_spider.manspider:main'
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.11"
 impacket = "^0.9.22"
-textract = "^1.6.3"
+textract = "^1.6.1"
 python-magic = "^0.4.22"
 
 [tool.poetry.dev-dependencies]
